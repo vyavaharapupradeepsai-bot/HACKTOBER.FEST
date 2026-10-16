@@ -1,0 +1,8 @@
+Python is a high-level programming language.
+It is known for its simple and readable syntax.
+A variable is a name that refers to a value.
+Python supports integers, strings, floats and booleans.
+Conditional statements allow programs to make decisions.
+An if statement executes a block when a condition is true.
+A loop repeats a block of code.
+A for loop is commonly used to iterate over a sequence.
