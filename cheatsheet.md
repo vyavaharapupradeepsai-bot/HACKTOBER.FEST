@@ -1,29 +1,22 @@
-Okay, here's the three-section Markdown document based solely on the provided notes:
+# Exam Cheat-Sheet
 
-## 1. THREE CORE TAKEAWAYS
+## Three Core Takeaways
 
-*   Python is a high-level programming language.
-*   It emphasizes readability with simple syntax.
-*   Python supports various data types.
+- Python is a high-level language with simple, readable syntax.
+- Variables are names that refer to values.
+- Python supports integers, strings, floats, and booleans.
 
-## 2. KEY DEFINITIONS
+## Key Definitions
 
-| Term           | Definition                               |
-|----------------|-------------------------------------------|
-| Variable       | A name that holds a value                     |
-| Conditional     | Allows programs to make decisions based on conditions |
-| Loop           | Repeats a block of code multiple times           |
-| Integer        | A whole number without a decimal point         |
-| String         | A sequence of characters                       |
-| Float          | A number with a decimal point                |
-| Boolean        | Represents truth values (True/False)            |
+| Term | Definition |
+| --- | --- |
+| Variable | A name that refers to a value. |
+| Conditional statement | A statement that lets a program make decisions. |
+| Loop | A block of code that repeats. |
+| For loop | A loop commonly used to iterate over a sequence. |
 
-## 3. RAPID-FIRE QUIZ
+## Rapid-Fire Quiz
 
-**Question:** What is the primary benefit of using variables in Python programming?
+**Question:** What is a for loop commonly used to do?
 
-**Answer:**  Variables store values, allowing for flexible program logic.
-
----
-
-Let me know if you'd like me to refine this further or create more sections!
+**Answer:** Iterate over a sequence.
