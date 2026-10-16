@@ -49,8 +49,10 @@ NOTES:
         format=CHEATSHEET_FORMAT,
         messages=[{"role": "user", "content": prompt}],
     )
-    result = json.loads(response["message"]["content"])
+    return format_cheatsheet(json.loads(response["message"]["content"]))
 
+
+def format_cheatsheet(result):
     if not isinstance(result, dict):
         raise ValueError("the response must be a JSON object")
 
